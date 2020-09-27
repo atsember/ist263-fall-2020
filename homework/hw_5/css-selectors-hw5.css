@@ -1,0 +1,23 @@
+
+        
+       ul {
+            margin: 5pt;
+            padding: 0;
+            list-style-type: none;
+            width: 475px;
+        }
+
+        li {
+            padding: 10px;
+            font-family: sans-serif;
+            font-style: normal;
+            /* font-weight:bold; unsure if font is bolded in photograph, if it bolded- this is the code to bold*/ 
+            
+        }
+        .odd {
+            background: #f1f1f1;
+        }
+        
+        .even {
+            background: #e1e1e1;
+        }
